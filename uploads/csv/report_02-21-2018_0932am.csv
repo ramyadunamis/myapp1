@@ -1,0 +1,6 @@
+#,NAME,"REG #",CLASS,SECTION,IN-TIME,OUT-TIME,"IN-DEVICE NAME","OUT-DEVICE NAME","PRIMARY TELEPHONE","PRIMARY EMAIL ID","BUS ATTENDANCE"
+1,"Anoop Daughter 1",ADS150272,2,B,12:57:44,13:13:11,"office device","office device",508937973,anoop@dunamisworld.com,
+2,"Anoop Daughter 2",ADS162180,3,B,12:57:32,13:13:03,"office device","office device",503862946,anoop@dunamisworld.com,
+3,"Anoop Son 1",ADS150513,1,L,12:57:30,13:13:22,"office device","office device",503326143,anoop@dunamisworld.com,Bus#1
+4,"Anoop Son 2",ADS150472,2,B,12:57:40,13:13:06,"office device","office device",504092958,anoop@dunamisworld.com,"Not at stop"
+5,"Roy Son 1",ADS161642,1,A,13:13:49,13:14:14,"office device","office device",563759832,roy@dunamisworld.com,

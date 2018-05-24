@@ -1,0 +1,12 @@
+#,NAME,NFC,"STUDENT ID","CLASS & SECTION",DATE,"PICKUP BUS","PICKUP TIME","DROPOFF BUS","DROPOFF TIME","SCAN TYPE",PRESENT/ABSENT,TRIP
+1,"Andria Elza Raj",ADS150050,ADS150050,1-F,13-Nov,2,0.37,2,0.37,"T,T",Present,"PRIMARY (Grade 1 to 9)"
+2,"Anoop Daughter 2",11,11,3-C,13-Nov,4,0.37,1,0.37,"T,T",Present,"PRIMARY (Grade 1 to 9)"
+3,"Aryan Vinil",ADS150196,ADS150196,1-K,13-Nov,2,0.37,2,0.37,"T,T",Present,"PRIMARY (Grade 1 to 9)"
+4,"Ayisha Mashood",ADS172338,ADS172338,1-M,13-Nov,2,0.37,2,0.37,"T,T",Present,"PRIMARY (Grade 1 to 9)"
+5,"Karthika R Pillai",ADS160853,ADS160853,2-C,13-Nov,2,0.37,2,0.37,"T,T",Absent,"PRIMARY (Grade 1 to 9)"
+6,"Mohamed Izyan Ibrahim",ADS150123,ADS150123,1-C,13-Nov,2,0.37,2,0.37,"T,T",Absent,"PRIMARY (Grade 1 to 9)"
+7,"Muhammed Finan",ADS161258,ADS161258,4-A,13-Nov,2,0.37,2,0.37,"T,T",Present,"PRIMARY (Grade 1 to 9)"
+8,"Muneeb Nore",ADS150739,ADS150739,9-A,13-Nov,2,0.37,2,0.37,"T,T",Absent,"PRIMARY (Grade 1 to 9)"
+9,"Parvathy R Pillai",ADS160854,ADS160854,8-A,13-Nov,2,0.37,2,0.37,"T,T",Absent,"PRIMARY (Grade 1 to 9)"
+10,"Ramya Son 1",12,12,3-C,13-Nov,1,0.37,1,0.37,"T,T",Present,"PRIMARY (Grade 1 to 9)"
+11,"Sayeed Bin Aslam",ADS161556,ADS161556,1-A,13-Nov,2,0.37,2,0.37,"T,T",Absent,"PRIMARY (Grade 1 to 9)"

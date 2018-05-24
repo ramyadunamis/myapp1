@@ -1,0 +1,4 @@
+#,Name,NFC,"REG #","CLASS & SECTION",DATE,BUS,PICK-UP,BUS,DROP-OFF,CARD-TYPE,"Present/ Absent",Trip
+1,"Roy Daughter 1",NFCD,NFCD,1-B,6-Nov,1,10.37,1,16.35,"T,T",Absent,"MORNING TRIP (All Students)"
+2,"Roy Son 1",NFC,REG,1-A,6-Nov,1,10.38,12,11.43,"T,T",Present,"MORNING TRIP (All Students)"
+3,"Ryan Uvanse",ADS160908,ADS160908,KG2-L,6-Nov,1,10.36,2,11.43,"T,T",Present,"MORNING TRIP (All Students)"

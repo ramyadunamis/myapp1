@@ -1,0 +1,12 @@
+#,NAME,"REG #",CLASS,SECTION,IN-TIME,OUT-TIME,"IN-DEVICE NAME","OUT-DEVICE NAME","PRIMARY TELEPHONE","PRIMARY EMAIL ID"
+1,"Anoop Daughter 1",ADS150272,2,B,10:48:17,10:49:32,"Buss device #1","Buss device #1",23456789,anoop@dunamisworld.com
+2,"Anoop Daughter 2",11,3,C,10:48:30,10:49:47,"Buss device #1","Buss device #1",23456789,anoop@dunamisworld.com
+3,"Anoop Son 1",1231,1,L,10:48:14,10:49:30,"Buss device #1","Buss device #1",23456789,anoop@dunamisworld.com
+4,"Anoop Son 2",ADS150472,2,B,10:48:22,10:49:39,"Buss device #1","Buss device #1",23456789,anoop@dunamisworld.com
+5,"Ansar Daughter 2",ADS162117,KG1,K,10:48:27,,"Buss device #1",,50674496,ansarsha@dunamisworld.com
+6,"Ramya Son 1",12,3,C,10:48:28,,"Buss device #1",,506744963,ramya@dunamisworld.com
+7,"Ryan Uvanse",ADS160908,KG2,L,10:48:20,10:49:35,"Buss device #1","Buss device #1",502420270,on@dunamisworld.com
+8,"Sumesh Son 2",ADS161982,KG2,F,10:48:25,,"Buss device #1",,502494468,sumesh@dunamisworld.com
+9,"Swathi Daughter 1",16,3,C,10:48:19,,"Buss device #1",,501003359,swathi@dunamisworld.com
+10,"Syed Muhammad Abdullah Zaidi",ADS161608,KG2,N,10:48:23,10:49:40,"Buss device #1","Buss device #1",529155162,on@dunamisworld.com
+11,test,,4,e,10:48:15,,"Buss device #1",,465456456,tdtr@dfgd.com

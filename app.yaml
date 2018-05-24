@@ -1,0 +1,18 @@
+env: flex
+runtime: php
+runtime_config:
+  document_root: .
+env_variables:
+    # Replace USER, PASSWORD, DATABASE, and CONNECTION_NAME with the
+    # values obtained when configuring your Cloud SQL instance.
+    MYSQL_USER: root
+    MYSQL_PASSWORD: admin123
+    MYSQL_DSN: mysql:dbname=safety_db;unix_socket=/cloudsql/lokate-204507:us-central1:lokate-mysql
+beta_settings:
+    cloud_sql_instances: lokate-204507:us-central1:lokate-mysql
+handlers:
+- url: /public
+  static_dir: public
+
+- url: /.*
+  script: index.php

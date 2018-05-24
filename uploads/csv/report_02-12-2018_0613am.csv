@@ -1,0 +1,8 @@
+#,NAME,"REG #",CLASS,SECTION,IN-TIME,OUT-TIME,"IN-DEVICE NAME","OUT-DEVICE NAME","PRIMARY TELEPHONE","PRIMARY EMAIL ID","ATTENDANCE STATUS"
+1,"Anoop Daughter 1",ADS150272,2,B,11:00:45,11:08:06,"Buss device #1","Buss device #1",23456789,anoop@dunamisworld.com,present
+2,"Anoop Daughter 2",11,3,C,11:00:33,11:08:13,"Buss device #1","Buss device #1",23456789,anoop@dunamisworld.com,absent
+3,"Anoop Son 1",1231,1,L,11:00:40,11:08:09,"Buss device #1","Buss device #1",23456789,anoop@dunamisworld.com,absent
+4,"Anoop Son 2",ADS150472,2,B,11:00:53,11:08:31,"Buss device #1","Buss device #1",23456789,anoop@dunamisworld.com,absent
+5,"Ansar Daughter 2",ADS162117,KG1,K,11:01:01,,"Buss device #1",,50674496,ansarsha@dunamisworld.com,absent
+6,"Ramya Son 1",12,3,C,11:01:04,,"Buss device #1",,506744963,ramya@dunamisworld.com,absent
+7,"Sumesh Son 2",ADS161982,KG2,F,11:00:58,,"Buss device #1",,502494468,sumesh@dunamisworld.com,absent

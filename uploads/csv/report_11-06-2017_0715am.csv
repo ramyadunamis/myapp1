@@ -1,0 +1,6 @@
+#,Name,NFC,"REG #","CLASS & SECTION",DATE,BUS,PICK-UP,BUS,DROP-OFF,CARD-TYPE,"Present/ Absent",Trip
+1,"Ansar Son 1",ADS161745,ADS161745,KG1-K,6-Nov,2,11.39,1,11.34,"T,T",Present,"KG TRIP"
+2,"Pramodh Son 2",ADS161754,ADS161754,KG1-G,6-Nov,2,11.06,1,11.34,"T,T",Present,"KG TRIP"
+3,"Roy Daughter 1",NFCD,NFCD,1-B,6-Nov,1,11.22,1,11.34,"T,T",Present,"KG TRIP"
+4,"Ryan Uvanse",ADS160908,ADS160908,KG2-L,6-Nov,1,11.19,2,11.17,"T,T",Absent,"KG TRIP"
+5,"Syed Muhammad Abdullah Zaidi",ADS161608,ADS161608,KG2-N,6-Nov,1,11.22,1,11.34,"T,T",Present,"KG TRIP"
